@@ -1,7 +1,7 @@
 /* Blynk cloud connection with SIM800 GSM module
     Fill in the credentials obtained from your Blynk account
 */
-#define BLYNK_TEMPLATE_ID " " //  Blynk template ID from your blynk.io account
+#define BLYNK_TEMPLATE_ID " " //  Blynk template ID from your blynk.io cloud account
 #define BLYNK_DEVICE_NAME "IoT Voting System" //  Device name can go here
 #define BLYNK_AUTH_TOKEN " " // Blynk auth token from your blynk.io account
 #define TINY_GSM_MODEM_SIM800 //  TinyGSM SIM800L module library
