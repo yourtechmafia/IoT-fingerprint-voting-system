@@ -1,4 +1,4 @@
-# IOT-fingerprint-voting-system
+# IoT-fingerprint-voting-system
 
 All you need to build an advanced IOT voting machine using Arduino hardware modules and Blynk IOT Cloud. Leverages IoT, Blynk Cloud, SD Card and has a secure administrator interface.
 Code is well commented for easier editing.
@@ -11,4 +11,4 @@ Here are the list of modules used in this project:
 * SIM800L for GPRS connection and IoT.
 * 4 x 4 Keypad module for user input.
 
-Fetch all necessary Arduino libraries for this project from (https://github.com/yourtechmafia/Awesome-Arduino-Libraries)
+Fork all necessary Arduino libraries for this project from (https://github.com/yourtechmafia/Awesome-Arduino-Libraries)
