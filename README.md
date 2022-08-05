@@ -10,3 +10,5 @@ Here are the list of modules used in this project:
 * LCD 2004 (20x4 LCD) to display multiple data
 * SIM800L for GPRS connection and IoT.
 * 4 x 4 Keypad module for user input.
+
+Fetch all necessary Arduino libraries for this project from (https://github.com/yourtechmafia/Awesome-Arduino-Libraries)
